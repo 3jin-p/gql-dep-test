@@ -1,4 +1,4 @@
-package com.example.gqldeptest.application
+package com.example.gqldeptest.application.dgs
 
 import com.netflix.graphql.dgs.*
 import graphql.schema.GraphQLObjectType
